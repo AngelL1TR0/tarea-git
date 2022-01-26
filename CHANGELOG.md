@@ -4,6 +4,10 @@ Este formato está basado en [Keep a Changelog](https://keepachangelog.com/en/1.
 
 ## [Unreleased]
 
+## [0.3.0] - 2022-01-26
+### Added
+- Fichero Vehicle.java
+
 ## [0.2.0] - 2021-12-18
 ### Added
 - Fichero CHANGELOG.md
